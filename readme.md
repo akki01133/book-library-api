@@ -9,6 +9,8 @@ Book Library api built using Express.js and MongoDB.
 - used `express-async-handler` package to add a exception catch wrapper over functions to handle runtime or uncaught error and prevent server crash
 
 ## api-endpoints
+- view [Api-Documentation](https://documenter.getpostman.com/view/20218768/2s9YeN2oVB#0b30ef69-d793-4794-b866-3d2bd70f6c80)
+- view [Postman-Api-Collection](https://elements.getpostman.com/redirect?entityId=20218768-0e42fb02-7f45-4959-944e-e2b2b72977db&entityType=collection)
 - /api
     - get /books
     - post /books
