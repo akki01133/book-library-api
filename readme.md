@@ -32,6 +32,9 @@ $ yarn run start
 $ yarn run start:dev
 ```
 
+## Seed data as requested
+- use this [postman-collection](https://elements.getpostman.com/redirect?entityId=20218768-d01cba84-c750-4c04-8b44-df947e5b078a&entityType=collection) to seed the mongo atlas database.
+
 ```
 💡 documented with 💖 by Ajeet | kr 
 ```
